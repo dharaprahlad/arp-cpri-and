@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="mainBk">#F5F5F5</color>
+    <color name="name">#222222</color>
+
+    <color name="primary_brown">#424242</color>
+    <color name="primary_dark_brown">#212121</color>
+    <color name="accent_brown">#000000</color>
+
+    <color name="primary_green">#4CAF50</color>
+    <color name="primary_dark_green">#388E3C</color>
+    <color name="accent_green">#1B5E20</color>
+
+    <color name="primary_purple">#673AB7</color>
+    <color name="primary_dark_purple">#512DA8</color>
+    <color name="primary_light">#D1C4E9</color>
+    <color name="accent_purple">#FF9800</color>
+
+    <color name="primary_red">#F44336</color>
+    <color name="primary_dark_red">#D32F2F</color>
+    <color name="accent_red">#B71C1C</color>
+
+    <color name="primary_indigo">#3F51B5</color>
+    <color name="primary_dark_indigo">#303F9F</color>
+    <color name="accent_indigo">#1A237E</color>
+
+    <color name="primary_pink">#E91E63</color>
+    <color name="primary_dark_pink">#C2185B</color>
+    <color name="accent_pink">#880E4F</color>
+
+    <color name="primary_cyan">#00BCD4</color>
+    <color name="primary_dark_cyan">#0097A7</color>
+    <color name="accent_cyan">#EEFF41</color>
+
+    <color name="primary_lime">#CDDC39</color>
+    <color name="primary_dark_lime">#AFB42B</color>
+    <color name="accent_lime">#EF6C00</color>
+
+    <color name="primary_teal">#00695C</color>
+    <color name="primary_dark_teal">#004D40</color>
+    <color name="accent_teal">#FFC107</color>
+
+    <color name="primary_amber">#FFC107</color>
+    <color name="primary_dark_amber">#FFA000</color>
+    <color name="accent_amber">#D81B60</color>
+
+    <color name="primary_lightGreen">#558B2F</color>
+    <color name="primary_dark_lightGreen">#33691E</color>
+    <color name="accent_lightGreen">#E53935</color>
+
+
+
+    <color name="activity_bg">#e4e5e5</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="activity_bg_black">#374046</color>
+</resources>

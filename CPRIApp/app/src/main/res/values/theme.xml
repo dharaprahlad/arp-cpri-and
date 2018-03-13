@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Green" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_dark_green</item>
+        <item name="colorAccent">@color/accent_green</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Purple" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryDark">@color/primary_dark_purple</item>
+        <item name="colorAccent">@color/accent_purple</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Brown" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_brown</item>
+        <item name="colorPrimaryDark">@color/primary_dark_brown</item>
+        <item name="colorAccent">@color/accent_brown</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Red" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_red</item>
+        <item name="colorPrimaryDark">@color/primary_dark_red</item>
+        <item name="colorAccent">@color/accent_red</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Indigo" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_indigo</item>
+        <item name="colorPrimaryDark">@color/primary_dark_indigo</item>
+        <item name="colorAccent">@color/accent_indigo</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Pink" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_pink</item>
+        <item name="colorPrimaryDark">@color/primary_dark_pink</item>
+        <item name="colorAccent">@color/accent_pink</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Cyan" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_cyan</item>
+        <item name="colorPrimaryDark">@color/primary_dark_cyan</item>
+        <item name="colorAccent">@color/accent_cyan</item>
+        <item name="colorControlHighlight">@color/primary_cyan</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Lime" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_lime</item>
+        <item name="colorPrimaryDark">@color/primary_dark_lime</item>
+        <item name="colorAccent">@color/accent_lime</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Teal" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryDark">@color/primary_dark_teal</item>
+        <item name="colorAccent">@color/accent_teal</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.Amber" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_amber</item>
+        <item name="colorPrimaryDark">@color/primary_dark_amber</item>
+        <item name="colorAccent">@color/accent_amber</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+    <style name="AppTheme.LightGreen" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/primary_lightGreen</item>
+        <item name="colorPrimaryDark">@color/primary_dark_lightGreen</item>
+        <item name="colorAccent">@color/accent_lightGreen</item>
+        <item name="colorControlHighlight">@color/divider</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+    </style>
+
+</resources>

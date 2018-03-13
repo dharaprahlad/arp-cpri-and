@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dhara.cpriapp"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <!-- Accessing camera hardware -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNAL" />
+
+    <application
+        android:name="cpri.other.MainController"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_gms2_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_gms2_round"
+        android:supportsRtl="true"
+        android:theme="@style/ThemeApp.LightGreen">
+        <activity
+            android:name="cpri.activity.SplashScreenActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cpri.activity.LoginActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="cpri.activity.MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.RegistrationActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.ForgotPasswordActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.SiteListActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.AddSiteInfoActivity"
+            android:configChanges="orientation"
+            android:label="Site Info"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.TechnologyActivity"
+            android:configChanges="orientation"
+            android:label="Technology"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.ChangePasswordActivity"
+            android:configChanges="orientation"
+            android:label="Change Password"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.ChangeThemeActivity"
+            android:configChanges="orientation"
+            android:label="Change Theme"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.FeedbackActivity"
+            android:configChanges="orientation"
+            android:label="Feedback"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.CPRIActivity"
+            android:configChanges="orientation"
+            android:label="WebsiteList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cpri.activity.TimeSheetActivity"
+            android:configChanges="orientation"
+            android:label="TimeSheet"
+            android:screenOrientation="portrait" />
+        <activity android:name="cpri.activity.AdminActivity" />
+        <activity android:name="cpri.activity.BaseActivity" />
+    </application>
+
+</manifest>
